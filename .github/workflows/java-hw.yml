@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   
 jobs:
-  my_first_job:
+  java_hw_job:
     runs-on: ubuntu-latest
 
     steps:
